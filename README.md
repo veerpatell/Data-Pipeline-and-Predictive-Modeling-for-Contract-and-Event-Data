@@ -70,11 +70,18 @@ Each model is evaluated based on:
 Performance Comparison
 
 # Model MSE R2 Score
-Linear Regression 5200.5 0.78
-Random Forest Regressor 3400.2 0.85
-Gradient Boosting Regressor 2950.1 0.88
-Support Vector Regressor 4100.7 0.81
-XGBoost Regressor 2800.3 0.90
+Linear Regression 5200.5 
+Random Forest Regressor 3400.2 
+Gradient Boosting Regressor 2950.1 
+Support Vector Regressor 4100.7
+XGBoost Regressor 2800.3 
+
+# Model R2 Score
+Linear Regression  0.78
+Random Forest Regressor  0.85
+Gradient Boosting Regressor 0.88
+Support Vector Regressor 0.81
+XGBoost Regressor 0.90
 
 ## Conclusion and Future Work
 
